@@ -1,0 +1,19 @@
+{
+  "searches": [
+    {"what": "salesforce admin fresher", "where": "Bangalore"},
+    {"what": "salesforce admin fresher", "where": "Hyderabad"},
+    {"what": "salesforce developer fresher", "where": "Bangalore"},
+    {"what": "full stack developer fresher", "where": "Bangalore"},
+    {"what": "software engineer fresher", "where": "Hyderabad"},
+    {"what": "Data Analyst freser", "where": "Hyderabad"},
+    {"what": "Data Analyst fresher", "where": "Bangalore"}
+  ],
+  "max_days_old": 2,
+  "exclude_in_title": ["senior", "sr.", "lead", "manager", "architect", "principal", "director"],
+  "company_boards": {
+    "greenhouse": [],
+    "lever": []
+  },
+  "board_title_keywords": ["salesforce", "software engineer", "full stack", "Data Analyst", "Data Analytics", "developer", "graduate", "intern"],
+  "board_locations": ["bangalore", "bengaluru", "hyderabad", "remote", "india"]
+}
